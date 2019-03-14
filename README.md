@@ -7,11 +7,6 @@
 
 <b>We cut the slack for users who are looking for the fastest way to a hands-on experience with their preferred products (app developed during Vodafone sponsored hackathon - won 4th place).</b>
 
-  My team members and I met at the hackathon for the first time and we decided to form a team in order to tackle the challenge posted by Vodafone. 
-  We used JavaScript and a web extension built by one of our experienced team members to inject new web content on top of the existing Vodafone online store content. 
-  We used less to design the new pages where the customers were directed (using the Maps JavaScript API) to the nearest Vodafone store. (We used the store locations and products database that Vodafone gave us).
-  Even though we all came from different backgrounds, through brainstorming and peer programming, we managed to merge our skills and successfully finished our app which got us 4th place among teams that had been formed long before ours.
-
 ## Inspiration
 The main drive behind our app is to extend the functionality of the existing Vodafone online store.
 
